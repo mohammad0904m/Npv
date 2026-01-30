@@ -1,4 +1,1 @@
-vless://c7bf59c2-da10-450d-f15f-ddfbed1a6570@asia1.novahomedesigntips.com:17200?path=%2F&security=none&encryption=none&type=ws#vip+2
-vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.177:8080?path=%2FIVApi%2FNL%2F0&security=none&encryption=none&type=ws#vip1
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&host=hitgram.ir&type=ws&sni=hitgram.ir#vip+3
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&host=hitgram.ir&type=ws&sni=hitgram.ir#vip+4
+vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=bored_vpn%3Fed&security=tls&encryption=none&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&type=ws&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#vip
