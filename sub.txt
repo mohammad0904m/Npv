@@ -1,1 +1,2 @@
 vless://c7bf59c2-da10-450d-f15f-ddfbed1a6570@asia1.novahomedesigntips.com:17200?path=%2F&security=none&encryption=none&type=ws#vip+2
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.177:8080?path=%2FIVApi%2FNL%2F0&security=none&encryption=none&type=ws#vip1
