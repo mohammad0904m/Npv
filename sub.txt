@@ -1,1 +1,1 @@
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ipbaz.ping-box.com:8443?path=bored_vpn%3Fed&security=tls&encryption=none&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&type=ws&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#vip
+vless://17cfa57b-16e2-4250-9e46-fea8e89ff342@se.vajopw.ir:59090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#vip
