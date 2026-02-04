@@ -1,1 +1,1 @@
-vless://87bdfb89-4638-4ca5-b9fd-fe157ac31de1@five.vajopw.ir:57853?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#game
+vless://7fb0d64a-0e86-404a-9dd5-50de45017b11@sev.vajopw.ir:16700?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#2
