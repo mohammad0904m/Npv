@@ -1,2 +1,1 @@
-vless://a929ad37-40e6-410a-8c3e-bb895ac28738@six.vajopw.ir:10350?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#n
-vless://54aade16-5d97-41f5-80fe-0f5ef00f2fe7@se.vajopw.ir:59090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany
+vless://87bdfb89-4638-4ca5-b9fd-fe157ac31de1@five.vajopw.ir:57853?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#game
