@@ -1,1 +1,1 @@
-vless://bc54674a-9453-4c38-909d-bfde4b1de24f@se.vajopw.ir:59090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#vip
+vless://bc54674a-9453-4c38-909d-bfde4b1de24f@se.vajopw.ir:59090?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#v
