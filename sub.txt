@@ -1,1 +1,1 @@
-vless://b38ee023-14c8-4e96-9200-459781e18825@two.vajopw.ir:41180?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%D9%85%D8%AE%D8%B5%D9%88%D8%B5+%DA%AF%DB%8C%D9%85
+vless://bb744f42-c1b2-4494-8864-2b76d383158c@six.vajopw.ir:45778?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40v2rayconfigsBot+%7C+7114943213
