@@ -1,3 +1,1 @@
-vless://e5344f43-f1c2-4e40-8a60-0af21249087f@two.vajopw.ir:51888?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1
-vless://a13df578-1d1c-4af4-9f45-fd12d8907db0@six.vajopw.ir:10175?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#2
-vless://4e66b602-b0f3-479a-bb98-c2246440c7eb@se.vajopw.ir:41811?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#vip
+vless://b38ee023-14c8-4e96-9200-459781e18825@two.vajopw.ir:41180?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%D9%85%D8%AE%D8%B5%D9%88%D8%B5+%DA%AF%DB%8C%D9%85
